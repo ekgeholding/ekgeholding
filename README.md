@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekgeholding
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Servicenow, JavaScript, Go
+- 🌱 I’m currently learning Servicenow, JavaScript, Go, React
 - 📫 ek@geholding.no
 
 <!---
